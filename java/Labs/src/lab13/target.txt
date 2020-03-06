@@ -1,0 +1,1 @@
+FileReader is a convenient class for reading text files using the default character encoding of the operating system.
